@@ -1,25 +1,42 @@
-# DmitryMuraviev
-## Hi there, I'm Dmitry Muraviev 👋  
+# Hi there! I'm Dmitry Muraviev 👋
 
-Aspiring Java developer, перехожу из собственного столярного бизнеса в IT и серьёзно сфокусирован на разработке.
+### Junior Java Backend Developer | Open to Opportunities
 
-- Учу Java (онлайн-курс, 3 модуля из 5 впереди)
-- Пишу pet‑проекты и постепенно заливаю их сюда
-- Готовлюсь к первой позиции Junior Java Developer
+Я Java-разработчик, развивающийся в направлении Backend Development. Перешёл в IT из собственного бизнеса и сосредоточен на создании практических программных решений.
 
-### Tech stack (learning)
+### 🚀 About Me
 
-Java Core, OOP, Collections & Stream API, basic multithreading and networking, Git, IntelliJ IDEA, Maven, Gradle, unit testing (JUnit, Mockito, AssertJ, Awaitility), логирование (Log4j), coverage (JaCoCo).
+- Обучаюсь по профессии **Java-разработчик в Skillbox**: три курса завершены, четвёртый — разработка Web-приложений на Java — в процессе.
+- Разрабатываю собственные пет-проекты, уделяя внимание архитектуре, качеству кода и автоматизированному тестированию.
+- Изучаю профессиональные практики разработки, работу с Git и интеграцию внешних сервисов.
+- **Ищу первую позицию Junior Java Backend Developer**, открыт к офисной работе и релокации.
 
-**Next:** Spring Framework, SQL/базы данных, алгоритмы и структуры данных на более глубоком уровне.
+### 🛠 Tech Stack
 
-### Learning path
+**Languages:** Java, Kotlin (учебный опыт)
 
-- Пишу код с упором на clean code и принципы SOLID  
-- Отрабатываю архитектуру, тестирование и работу с внешними API  
-- Собираю портфолио из практических pet‑проектов (в том числе Telegram‑ботов)
+**Core:** OOP, Collections, Stream API, многопоточность
 
-### Contacts
+**Build & Tools:** Maven, Gradle, Git, GitHub, IntelliJ IDEA
 
-📧 dmitry.muraviev.dev@gmail.com  
-💬 Telegram: @Dixonmura
+**Testing:** JUnit 5, Mockito, AssertJ, Awaitility, JaCoCo
+
+**Other:** REST API, JSON, Log4j2, интеграция внешних API
+
+### 📌 Featured Project
+
+**[SandBoxCraftBot](https://github.com/Dixonmura/sandbox-craft-bot)**
+
+Многомодульный Telegram-бот с единым маршрутизатором команд:
+
+- **Pomodoro** — управление временем и рабочими интервалами.
+- **MovieQuiz** — интерактивная викторина.
+- **VacancyTracker** — отслеживание вакансий через внешние API.
+
+В проекте применяются модульная архитектура, автоматизированные тесты и управление версиями через Git.
+
+### 📫 Contacts
+
+**Email:** dmitry.muraviev.dev@gmail.com
+
+**Telegram:** @Dixonmura
